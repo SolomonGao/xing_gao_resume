@@ -21,17 +21,20 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 GPA
 
-
 ## Related Experience
 
-### Internships
+### Part-time job
 
-`July 2022 - August 2022`
-__Pacific Northwest National Lab__, Richland, WA
+`June 2020 - august 2020`
+__English Teacher__, Dujiangyan, Sichuan
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Teaching fun English lessons for children aged 4-14. Develop students' interest in English. Use art, sports, etc. to help children learn English.
+
+`JULY 2021 – November  2021`
+__Salesperson and Receptionist__, uniqlo Co., Ltd. Chongqin
+
+- Help customers to better understand the advantages of the product and recommend the most suitable product according to the customer's needs.My job is mainly to distribute product sales materials and promotional items, collect customer feedback and suggestions, and organize products
+
 
 ### Project Lead
 
@@ -42,22 +45,12 @@ __Pac Man__, final projects
 - Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
 - Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
 
-### Data Science Consulting Team
+### Education
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`September 2013-June 2016`
+__Experimental Middle School of the University of Electronic Science and Technology of China__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- I was a Physics class representative for 1 years and was responsible for helping teachers collect and grade homework and running activities for my class.
 
 ## Service and Work History
 
