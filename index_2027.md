@@ -21,6 +21,11 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 GPA
 
+`September 2013-June 2016`
+__Experimental Middle School of the University of Electronic Science and Technology of China__
+
+- I was a Physics class representative for 1 years and was responsible for helping teachers collect and grade homework and running activities for my class.
+
 ## Related Experience
 
 ### Part-time job
@@ -45,12 +50,6 @@ __Pac Man__, final projects
 - Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
 - Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
 
-### Education
-
-`September 2013-June 2016`
-__Experimental Middle School of the University of Electronic Science and Technology of China__
-
-- I was a Physics class representative for 1 years and was responsible for helping teachers collect and grade homework and running activities for my class.
 
 ## Service and Work History
 
