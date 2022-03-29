@@ -1,9 +1,9 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Xing Gao's Resume
 ---
 # Xing Gao
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+A student at BYU-I majoring in Software Engineeing
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
