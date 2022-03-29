@@ -3,11 +3,11 @@ layout: resume
 title: Xing Gao's Resume
 ---
 # Xing Gao
-A student at BYU-I majoring in Software Engineeing
+A student at BYU-Idaho majoring in Software Engineeing
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="gao20002@byui.edu">gao20002@byui.edu</a>
+| <a href="https://github.com/SolomonGao">My Projects</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -26,28 +26,21 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
-`January 2028 - June 2028`
+`July 2022 - August 2022`
 __Pacific Northwest National Lab__, Richland, WA
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
 - Published a journal article in Environmental Quality.
 
-### Data Science Lead
+### Project Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`March 2022`
+__Pac Man__, final projects
 
 - Developed a predicted model to support Westmark in custumer conversion from dealer loans.
 - Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
 - Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
 ### Data Science Consulting Team
 
@@ -68,12 +61,12 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2022 - Now`
+__Programming TA__, CSE 111
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2018-2020`
+__Service Missionary__, Melbourne, Australia
 
 
 
