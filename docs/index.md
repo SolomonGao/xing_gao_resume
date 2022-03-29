@@ -1,89 +1,69 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Xing Gao's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Xing Gao
+A student at BYU-Idaho majoring in Software Engineeing
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="gao20002@byui.edu">gao20002@byui.edu</a>
+| <a href="https://github.com/SolomonGao">My Projects</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2021 - now`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 4.0 GPA
 
+`September 2013-June 2016`
+__Experimental Middle School of the University of Electronic Science and Technology of China__
+
+- I was a Physics class representative for 1 years and was responsible for helping teachers collect and grade homework and running activities for my class.
 
 ## Related Experience
 
-### Internships
+### Part-time job
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`June 2020 - august 2020`
+__English Teacher__, Dujiangyan, Sichuan
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Teaching fun English lessons for children aged 4-14. Develop students' interest in English. Use art, sports, etc. to help children learn English.
 
-### Data Science Lead
+`JULY 2021 – November  2021`
+__Salesperson and Receptionist__, uniqlo Co., Ltd. Chongqin
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Help customers to better understand the advantages of the product and recommend the most suitable product according to the customer's needs.My job is mainly to distribute product sales materials and promotional items, collect customer feedback and suggestions, and organize products
+
+
+### Project Lead
+
+`March 2022`
+__Pac Man__, final projects
 
 - Developed a predicted model to support Westmark in custumer conversion from dealer loans.
 - Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
 - Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2022 - Now`
+__Programming TA__, CSE 111
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2018-2020`
+__Service Missionary__, Melbourne, Australia
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2022 -->
 
 
